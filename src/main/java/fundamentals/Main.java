@@ -15,7 +15,7 @@ public class Main {
         System.out.println("y1 = " + tasksExerc1.y);
         System.out.println("y2 = " + tasksExerc2.y);
 
-//        Task1
+//        task1
 
         tasksExerc1.circleParametre();
     }
